@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwePay", "AwePay\AwePay.csproj", "{758D9AFC-DE27-4FAD-8FF3-4D4163E1D2E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{758D9AFC-DE27-4FAD-8FF3-4D4163E1D2E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{758D9AFC-DE27-4FAD-8FF3-4D4163E1D2E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{758D9AFC-DE27-4FAD-8FF3-4D4163E1D2E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{758D9AFC-DE27-4FAD-8FF3-4D4163E1D2E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88590AD3-9019-4990-8744-B1B12F2C0112}
+	EndGlobalSection
+EndGlobal
